@@ -1,0 +1,12 @@
+flask
+flask-cors
+beautifulsoup4
+requests
+openai
+google-generativeai
+python-dotenv
+flask_sqlalchemy
+playwright
+firebase-admin
+schedule
+
